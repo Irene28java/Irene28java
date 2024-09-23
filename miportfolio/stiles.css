@@ -1,0 +1,139 @@
+/* Estilos de la galería */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #92c3cf; /* Fondo neutro */
+    color: #34495E; /* Color de texto */
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos del header */
+header {
+    background-color: #2C3E50; /* Color primario */
+    color: #FFFFFF; /* Texto en blanco */
+    text-align: center;
+    padding: 2em 1em;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #1ABC9C; /* Color secundario */
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #FFFFFF; /* Texto blanco */
+    text-decoration: none;
+    padding: 1em;
+    display: block;
+}
+
+nav ul li a:hover {
+    background-color: #16A085; /* Un poco más oscuro para hover */
+    border-radius: 4px;
+}
+
+/* Estilos de la galería */
+.portfolio-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin: 2em 0;
+    padding: 0 1em;
+}
+
+.portfolio-item {
+    background-color: #FFFFFF; /* Fondo blanco */
+    border-radius: 8px;
+    padding: 1em;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.portfolio-item:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.gallery-image {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    margin-top: 1em;
+}
+
+.gallery-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.4s;
+    cursor: pointer;
+}
+
+.gallery-image img.zoomable:hover {
+    transform: scale(1.1); /* Efecto de zoom */
+}
+
+.modal {
+    display: none; /* Oculto por defecto */
+    position: fixed;
+    z-index: 10;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.8); /* Fondo oscuro */
+}
+
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    border: 4px solid #1ABC9C; /* Borde en color secundario */
+}
+
+.modal-content, .close {
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+    from {transform: scale(0)} 
+    to {transform: scale(1)}
+}
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Estilos del footer */
+footer {
+    background-color: #2C3E50; /* Color primario */
+    color: #FFFFFF; /* Texto blanco */
+    text-align: center;
+    padding: 1em;
+    margin-top: 2em;
+}

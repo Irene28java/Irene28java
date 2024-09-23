@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
+  <link rel="stylesheet" as="style" onload="this.rel='stylesheet'" href="https://fonts.googleapis.com/css2?display=swap&family=Inter:wght@400;500;700;900&family=Noto+Sans:wght@400;500;700;900" />
+  <title>Portafolio de Irene Vaquerizo</title>
+  <link rel="icon" type="image/x-icon" href="data:image/x-icon;base64," />
+  <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+</head>
+<body class="bg-slate-50" style='font-family: Inter, "Noto Sans", sans-serif;'>
+  <div class="relative flex min-h-screen flex-col overflow-x-hidden">
+    <div class="flex flex-col items-center justify-center py-8">
+      
+      <!-- Encabezado con imagen de fondo -->
+      <div class="relative w-full h-64 bg-center bg-cover" style="background-image: url('https://github.com/usuario/repositorio/raw/main/nombre-imagen.jpg');">
+        <div class="flex items-center justify-center h-full bg-black bg-opacity-50">
+          <h1 class="text-white text-4xl font-bold">¡Bienvenidos!</h1>
+        </div>
+      </div>
+
+      <!-- Eslogan -->
+      <p class="text-center text-[#4e7397] text-lg font-normal mt-4">"Cada desafío es una gran oportunidad. Solo dame uno y te mostraré lo que puedo lograr."</p>
+
+      <!-- Imagen de perfil -->
+      <div class="bg-center bg-no-repeat aspect-square bg-cover rounded-full min-h-32 w-32 my-4" 
+      style='background-image: url("https://raw.githubusercontent.com/Irene28java/IMAGEN/refs/heads/main/imagen/foto_irene_vaquerizo%20(1).JPG?token=GHSAT0AAAAAACXASUMSAD642BZFMMN3A5POZXRL5AQ");'>
+      </div>
+
+      <!-- Nombre centrado -->
+      <p class="text-[#0e141b] text-[28px] font-bold">Irene Vaquerizo</p>
+
+      <!-- Información sobre mí -->
+      <div class="text-center mt-4 px-4">
+        <p class="text-[#4e7397] text-base font-normal leading-normal">
+          Ingeniera de software con experiencia en ciberseguridad, desarrollo multiplataforma, y creación de soluciones innovadoras. Apasionada por la programación desde los seis años, resuelvo problemas complejos y aprendo rápidamente. Mi enfoque se centra en proteger la seguridad de aplicaciones y desarrollar herramientas que marquen la diferencia.
+        </p>
+      </div>
+
+      <!-- Botón de seguir centrado -->
+      <button class="min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-xl h-10 px-4 bg-[#e7edf3] text-[#0e141b] text-sm font-bold w-full max-w-[480px] sm:w-auto mt-6">
+        <span class="truncate">Seguir</span>
+      </button>
+
+      <!-- Ubicación -->
+      <p class="text-[#4e7397] text-sm font-normal leading-normal py-3">Madrid, España</p>
+
+      <!-- Sección de Proyectos -->
+      <h2 class="text-[#0e141b] text-[22px] font-bold leading-tight tracking-[-0.015em] pb-3 pt-5">Proyectos</h2>
+      <div class="grid grid-cols-[repeat(auto-fit,minmax(200px,1fr))] gap-5 px-4 max-w-[960px]">
+        <!-- Proyecto 1 -->
+        <div class="flex flex-col gap-3 pb-3">
+          <div class="w-full bg-center bg-no-repeat aspect-video bg-cover rounded-xl" style='background-image: url("https://cdn-icons-png.flaticon.com/512/3616/3616720.png");'></div>
+          <p class="text-[#0e141b] text-base font-medium leading-normal">Sistema de Gestión de Seguridad</p>
+          <p class="text-[#4e7397] text-sm font-normal leading-normal">
+            Proyecto orientado a la protección de infraestructuras críticas, enfocado en la prevención de ciberataques en tiempo real y la gestión integral de la seguridad de datos.
+          </p>
+        </div>
+        <!-- Proyecto 2 -->
+        <div class="flex flex-col gap-3 pb-3">
+          <div class="w-full bg-center bg-no-repeat aspect-video bg-cover rounded-xl" style='background-image: url("https://cdn-icons-png.flaticon.com/512/2920/2920235.png");'></div>
+          <p class="text-[#0e141b] text-base font-medium leading-normal">App de Tareas Multiplataforma</p>
+          <p class="text-[#4e7397] text-sm font-normal leading-normal">
+            Una aplicación sencilla y segura disponible para iOS y Android. Permite la organización de tareas con un diseño intuitivo y una capa de seguridad adicional mediante un código de 4 dígitos.
+          </p>
+        </div>
+        <!-- Proyecto 3 -->
+        <div class="flex flex-col gap-3 pb-3">
+          <div class="w-full bg-center bg-no-repeat aspect-video bg-cover rounded-xl" style='background-image: url("https://cdn-icons-png.flaticon.com/512/2621/2621052.png");'></div>
+          <p class="text-[#0e141b] text-base font-medium leading-normal">Plataforma de Análisis de Datos</p>
+          <p class="text-[#4e7397] text-sm font-normal leading-normal">
+            Plataforma web que facilita el análisis de grandes volúmenes de datos con visualizaciones avanzadas y procesamiento en tiempo real.
+          </p>
+        </div>
+      </div>
+
+      <!-- Sección de Habilidades -->
+      <h2 class="text-[#0e141b] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">Habilidades</h2>
+      <div class="flex gap-3 p-3 flex-wrap pr-4 max-w-[960px]">
+        <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#e7edf3] pl-4 pr-4">
+          <p class="text-[#0e141b] text-sm font-medium leading-normal">SCRUM</p>
+        </div>
+        <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#e7edf3] pl-4 pr-4">
+          <p class="text-[#0e141b] text-sm font-medium leading-normal">Flutter & Dart</p>
+        </div>
+        <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#e7edf3] pl-4 pr-4">
+          <p class="text-[#0e141b] text-sm font-medium leading-normal">Jetpack Compose</p>
+        </div>
+        <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#e7edf3] pl-4 pr-4">
+          <p class="text-[#0e141b] text-sm font-medium leading-normal">JUnit</p>
+        </div>
+        <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#e7edf3] pl-4 pr-4">
+          <p class="text-[#0e141b] text-sm font-medium leading-normal">Ciberseguridad Avanzada</p>
+        </div>
+        <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#e7edf3] pl-4 pr-4">
+          <p class="text-[#0e141b] text-sm font-medium leading-normal">Python y APIs REST</p>
+        </div>
+        <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#e7edf3] pl-4 pr-4">
+          <p class="text-[#0e141b] text-sm font-medium leading-normal">Resolución de Problemas Complejos</p>
+        </div>
+        <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#e7edf3] pl-4 pr-4">
+          <p class="text-[#0e141b] text-sm font-medium leading-normal">Creatividad e Innovación</p>
+        </div>
+        <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#e7edf3] pl-4 pr-4">
+          <p class="text-[#0e141b] text-sm font-medium leading-normal">Conocimientos en Redes</p>
+        </div>
+      </div>
+
+       <!-- Descarga del CV y GitHub -->
+       <div class="flex flex-col items-center gap-6 py-5">
+        <a href="https://github.com/Irene28java" class="underline text-[#0e141b]">GitHub: Irene28java</a>
+        <a href="ruta-a-tu-cv.pdf" class="min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-xl h-10 px-4 bg-[#e7edf3] text-[#0e141b] text-sm font-bold w-full max-w-[480px] sm:w-auto">
+          <span class="truncate">Descargar CV</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
