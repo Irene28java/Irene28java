@@ -34,7 +34,8 @@ Actualmente estoy...
 
 
 
-🛠️Herramientas que uso🛠️
+
+
 <!-- Herramientas que uso -->
 <h3 class="text-[#0e141b] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">Herramientas que uso</h3>
 <div class="flex gap-3 p-3 flex-wrap pr-4 max-w-[960px]">
