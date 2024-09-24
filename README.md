@@ -11,7 +11,7 @@ Actualmente estoy...
 -  refuerzando mi aplicacion en python 
 - colaborando con empresas para mejorar su rendimiento en sus aplicaciones
 
- !Irene's GitHub! (https://github-readme-stats.vercel.app/api?username=Irene28java&show_icons=true&theme=radical)
+
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irene28java&layout=compact&theme=radical)
 
@@ -39,7 +39,7 @@ Actualmente estoy...
 ![Ciberseguridad](https://img.shields.io/badge/-Ciberseguridad-informational?style=flat-square&logo=Security&logoColor=white)
 
 ## 📊 Resumen de Contribuciones
-![Resumen de Contribuciones](https://activity-graph.herokuapp.com/graph?username=Irene28java&theme=react-dark&hide_border=true&area=true)
+
 
 ![gif-programming](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
