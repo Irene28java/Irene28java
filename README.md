@@ -1,18 +1,48 @@
-¡Hola! Soy Irene Vaquerizo 👋
-Soy una apasionada del código desde que era niña, cuando mis padres me apuntaron a clases de informática. Allí conocí a una profesora con un gran sentido del humor que hacía que aprender a programar fuera emocionante y accesible. Aunque pasé mucho tiempo como coordinadora de telemarketing, siempre soñé con dar el salto al mundo de la programación.
+# Hola, soy Irene Vaquerizo 👋
 
-¡Y aquí estoy! El código se me da bien y parece que tiene su propia lógica que me acompaña a todas partes. Con cada nuevo desafío, me he ido abriendo a las nuevas tecnologías, como la ciberseguridad y la inteligencia artificial. Aprender es algo que disfruto y me resulta natural; me encanta crear aplicaciones y tengo un buen manejo de redes y microservicios.
+### 💻 Ingeniera de Software | Ciberseguridad | Desarrolladora Multiplataforma
 
-🚀 ¿Qué hago?
-Desarrollo de Aplicaciones: Diseño y creo aplicaciones que resuelven problemas reales.
-Ciberseguridad: Me apasiona proteger la información y asegurar sistemas.
-Inteligencia Artificial: Exploro cómo la IA puede transformar nuestro mundo.
-Microservicios: Implemento arquitecturas escalables y eficientes.
+![Bienvenidos](https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif)
 
-💬 ¡Hablemos!
-Si buscas a alguien con pasión por el código y la capacidad de aprender rápidamente, ¡no dudes en contactarme! Estoy abierta a nuevas oportunidades y colaboraciones.
+Actualmente estoy...  
+- 🔒 Trabajando en **proyectos de ciberseguridad**  
+- 📱 Desarrollando una nueva **aplicación multiplataforma**  
+- 📚 Aprendiendo sobre **Machine Learning** y **Data Science**  
+-  refuerzando mi aplicacion en python 
+- colaborando con empresas para mejorar su rendimiento en sus aplicaciones
 
-📧 Irevdm1993@gmail.com
+ !Irene's GitHub! (https://github-readme-stats.vercel.app/api?username=Irene28java&show_icons=true&theme=radical)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irene28java&layout=compact&theme=radical)
+
+
+## 📫 ¡Conéctate conmigo!
+
+<a href="www.linkedin.com/in/irene-vaquerizo-09a74a15a">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:irevdm1993@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/Irene28java">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
+</a>
+
+
+## 🛠️ Habilidades
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+![Ciberseguridad](https://img.shields.io/badge/-Ciberseguridad-informational?style=flat-square&logo=Security&logoColor=white)
+
+## 📊 Resumen de Contribuciones
+![Resumen de Contribuciones](https://activity-graph.herokuapp.com/graph?username=Irene28java&theme=react-dark&hide_border=true&area=true)
+
+![gif-programming](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 
 
