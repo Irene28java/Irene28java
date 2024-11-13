@@ -6,9 +6,9 @@
 
 Actualmente estoy...  
 - 🔒 Trabajando en **proyectos de ciberseguridad**  
-- 📱 Desarrollando una nueva **aplicación multiplataforma**  
+- 📱 Desarrollando nuevas **aplicaciónes multiplataformas**  
 - 📚 Aprendiendo sobre **Machine Learning** y **Data Science**  
--  refuerzando mi aplicacion en python 
+-  refuerzando mi aplicacion de kotlin con java y  python 
 - colaborando con empresas para mejorar su rendimiento en sus aplicaciones
 
 
