@@ -1,6 +1,5 @@
 # ¡Hola, soy Irene Vaquerizo! 👋  
-💻 **Ingeniera de Software | Backend Developer | Desarrolladora Multiplataforma**
-
+💻 **Ingeniera de Software | Security Engineer | Backend & Fraud Intelligence Specialist
 ![Bienvenidos](https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif)
 
 Soy una **Ingeniera de Software** especializada en el diseño y desarrollo de soluciones backend escalables y eficientes, con experiencia sólida en **microservicios** y desarrollo de aplicaciones multiplataforma. Trabajo con **Java**, **Kotlin** y **Python**, creando aplicaciones robustas que cumplen con las necesidades de las empresas y sus usuarios.
